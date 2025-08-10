@@ -1,6 +1,6 @@
 ## lazyserial
 
-A fast, minimal TUI serial terminal inspired by lazygit and similar in spirit to CuteCom — but in your terminal. Built with ratatui + crossterm.
+A fast, minimal TUI serial terminal inspired by lazygit. Built with ratatui + crossterm.
 
 ### Features
 - Port discovery and selection
