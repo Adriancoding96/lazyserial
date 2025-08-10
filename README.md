@@ -31,10 +31,6 @@ On Linux you may need permissions for serial devices (e.g., add your user to `di
 ### Notes
 - Default baud: 115200. Cycling order: 9600, 19200, 38400, 57600, 115200, 230400.
 - Output pane shows sent lines prefixed with `>>`.
-
-### Roadmap (ideas)
-- Configurable line ending (None/CR/LF/CRLF)
-- Hardware/software flow control toggles
 - Hex view and file logging
 - Help popup and theming
 
